@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Aug 10 23:03:59 EEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0173-d9f8-f977-00000cdb19a0 
+on database directory memory:/Users/mwaked/AnypointStudio/workspaces/training/devAdvanced39/maven-project/muleEmbeddedDB with class loader org.mule.module.launcher.MuleApplicationClassLoader[maven-project]@63bde6c2 
+Loaded from file:/Users/mwaked/AnypointStudio/workspaces/training/devAdvanced39/.mule/apps/maven-project/lib/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_201-b09
+user.dir=/Users/mwaked/AnypointStudio/workspaces/training/devAdvanced39/maven-project
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
